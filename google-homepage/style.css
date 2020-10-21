@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+
+#sign-in {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+    margin-right: 20px;
+
+}
+
+.topright {
+    padding-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+#log-in {
+    padding: 5px;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.801);
+}
+#log-in:hover {
+    background-color: white;
+    color: gray;
+}
+
+#logo {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.mid {
+    text-align: center;
+}
+
+#searchbox {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#google-offered-in {
+text-align: center;
+}
+
+.text {
+    color: blue;
+}
+
+p {
+    margin-top: 100px;
+}
+
+#footer {
+    display: block;
+    
+}
+#footer2nd{
+    margin-left: 60px;
+ 
+}
+.footer {
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-left: 60px;
+
+}
+
+
